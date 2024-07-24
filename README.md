@@ -1,16 +1,12 @@
 # trash_animation
 
-A new Flutter project.
+This Flutter project demonstrates a hidden animation effect for a card, where a hole appears to swallow the card, and then the card reappears. This effect is achieved using Flutter's animation controllers and custom clippers.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Animation for hiding and showing a card with a rotating and elevating effect.
+Custom clipper to create a "black hole" effect.
+Smooth transitions using AnimationController and Tween.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots
+![image](https://github.com/user-attachments/assets/4bb925e1-0fb7-44d0-acd3-9de0151cecc7)
